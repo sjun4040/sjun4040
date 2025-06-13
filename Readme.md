@@ -13,13 +13,19 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![ADsP](https://img.shields.io/badge/ADsP-008080?logoColor=white)
-
+<span class="badge badge-sql">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" alt="SQL"> SQL
+</span>
+<br>
+<br>
 🔧 주요 프로젝트
 🖥️WebStart Portfolio
 
 설명: 개인 포트폴리오 사이트
 
-기술: HTML5 · CSS3 · JavaScript
+기술: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=ffffff) · <span class="badge badge-sql">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" alt="SQL"> SQL
+</span> · ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 포트폴리오: https://sjun4040.github.io/webstart/index.html
 <br>
