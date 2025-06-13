@@ -14,6 +14,30 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![ADsP](https://img.shields.io/badge/ADsP-008080?logoColor=white)
 
+🔧 주요 프로젝트
+WebStart Portfolio
+
+설명: 개인 포트폴리오 사이트
+
+기술: HTML5 · CSS3 · JavaScript
+
+데모: https://sjun4040.github.io/webstart/index.html
+
+거미줄팀_아이스크림가게 프로그램
+
+설명: Python만을 이용해서 아이스크림 가게 키오스크 프로그램을 만들었습니다.
+
+기술: Python · 파일 입출력
+
+LG U+ WHY NOT SW Camp 학습 정리
+
+설명: 캠프 주차별 학습 노트 및 코드 예제 공부
+
+기술: Markdown · Jupyter Notebook, VS code
+
+
+
+
 <br>
 name: Park sang jun<br>
 jobs: Student<br>
