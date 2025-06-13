@@ -3,7 +3,7 @@
 [![GitHub 주소입니다]([https://github-readme-stats.vercel.app/api?username=your-username](https://github.com/sjun4040))]
 
 <p align="center">
-  <img src="profile-readme.png" width="600" alt="Cover" />
+  <img src="blog_banner.jpg" width="600" alt="Cover" />
 </p>
 
 🔭 지금은 공부중(파이썬, 자바 스크립트, Html, sql, ADSP 등)  
