@@ -13,6 +13,12 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![ADsP](https://img.shields.io/badge/ADsP-008080?logoColor=white)
+/* CSS3 뱃지 */
+.badge-css3 {
+  background-color: #1572B6;
+  color: #ffffff;
+  background-image: url('https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg');
+}
 <br>
 <br>
 🔧 주요 프로젝트
