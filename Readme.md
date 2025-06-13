@@ -24,6 +24,7 @@
 
 포트폴리오: https://sjun4040.github.io/webstart/index.html
 <br>
+<br>
 🗄️거미줄팀_아이스크림가게 프로그램
 
 설명: Python만을 이용해서 아이스크림 가게 키오스크 프로그램을 만들었습니다.
@@ -31,6 +32,7 @@
 기술: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=ffffff)
 
 시뮬레이션 :  https://sjun4040.github.io/hipython_rep/거미줄_함수_찐막.ipynb
+<br>
 <br>
 ✏️LG U+ WHY NOT SW Camp 학습 정리
 
