@@ -1,16 +1,31 @@
-## Hi there 👋
+# 안녕하세요, 상라입니다 👋
 
-<!--
-**sjun4040/sjun4040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username)](https://github.com/your-username)
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="profile-readme.png" width="600" alt="Cover" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 지금은 의료기기 밸리데이션 준비 중  
+📫 문의: example@email.com  
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=ffffff)
+
+<h2 style="color:#333333;">🚀 Skills</h2>
+
+name: Update visitor count
+on: [push, schedule]
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update visitor widget
+        run: |
+          # 스크립트로 visitor.svg 업데이트
+      - uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: actions@github.com
+          message: "Update visitor count"
