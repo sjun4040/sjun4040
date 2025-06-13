@@ -14,7 +14,7 @@
 
 <h2 style="color:#333333;">🚀 Skills</h2>
 
-name: Park sang jun
-jobs: Student
-Portfolio : https://sjun4040.github.io/webstart/index.html
+name: Park sang jun<br>
+jobs: Student<br>
+Portfolio : https://sjun4040.github.io/webstart/index.html<br>
 
