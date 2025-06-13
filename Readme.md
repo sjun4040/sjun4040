@@ -1,6 +1,6 @@
 # 안녕하세요, 박상준입니다 👋
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="40" height="40" />
 
 
 <p align="center">
