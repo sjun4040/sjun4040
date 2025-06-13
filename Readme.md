@@ -1,13 +1,13 @@
-# 안녕하세요, 상라입니다 👋
+# 안녕하세요, 박상준입니다 👋
 
-[![GitHub stats]([https://github-readme-stats.vercel.app/api?username=your-username](https://github.com/sjun4040))]
+[![GitHub 주소입니다]([https://github-readme-stats.vercel.app/api?username=your-username](https://github.com/sjun4040))]
 
 <p align="center">
   <img src="profile-readme.png" width="600" alt="Cover" />
 </p>
 
 🔭 지금은 공부중(파이썬, 자바 스크립트, Html, sql, ADSP 등)  
-📫 문의: example@email.com  
+📫 문의: a79681108@email.com  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=ffffff)
