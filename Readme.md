@@ -1,8 +1,5 @@
 # <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="40" height="40" /> 안녕하세요, 박상준입니다 👋
 
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="40" height="40" />
-
-
 <p align="center">
   <img src="blog_banner.jpg" width="600" alt="Cover" />
 </p>
