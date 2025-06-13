@@ -15,25 +15,29 @@
 ![ADsP](https://img.shields.io/badge/ADsP-008080?logoColor=white)
 
 🔧 주요 프로젝트
-WebStart Portfolio
+🖥️WebStart Portfolio
 
 설명: 개인 포트폴리오 사이트
 
 기술: HTML5 · CSS3 · JavaScript
 
-데모: https://sjun4040.github.io/webstart/index.html
-
-거미줄팀_아이스크림가게 프로그램
+포트폴리오: https://sjun4040.github.io/webstart/index.html
+<br>
+🗄️거미줄팀_아이스크림가게 프로그램
 
 설명: Python만을 이용해서 아이스크림 가게 키오스크 프로그램을 만들었습니다.
 
 기술: Python · 파일 입출력
 
-LG U+ WHY NOT SW Camp 학습 정리
+시뮬레이션 :  https://sjun4040.github.io/hipython_rep/거미줄_함수_찐막.ipynb
+<br>
+✏️LG U+ WHY NOT SW Camp 학습 정리
 
 설명: 캠프 주차별 학습 노트 및 코드 예제 공부
 
 기술: Markdown · Jupyter Notebook, VS code
+
+블로그 : https://sjun11.blogspot.com/
 
 
 
