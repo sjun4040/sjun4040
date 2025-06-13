@@ -31,7 +31,7 @@
 
 기술: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=ffffff)
 
-시뮬레이션 :  https://sjun4040.github.io/hipython_rep/거미줄_함수_찐막.ipynb
+시뮬레이션 :  [https://sjun4040.github.io/hipython_rep/거미줄_함수_찐막.ipynb](https://github.com/sjun4040/hipython_rep/blob/main/%EA%B1%B0%EB%AF%B8%EC%A4%84_%ED%95%A8%EC%88%98_%EC%B0%90%EB%A7%89.ipynb)
 <br>
 <br>
 ✏️LG U+ WHY NOT SW Camp 학습 정리
