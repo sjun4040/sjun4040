@@ -13,9 +13,6 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![ADsP](https://img.shields.io/badge/ADsP-008080?logoColor=white)
-<span class="badge badge-sql">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" alt="SQL"> SQL
-</span>
 <br>
 <br>
 🔧 주요 프로젝트
@@ -23,9 +20,7 @@
 
 설명: 개인 포트폴리오 사이트
 
-기술: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=ffffff) · <span class="badge badge-sql">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" alt="SQL"> SQL
-</span> · ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+기술: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=ffffff) · ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) · CSS
 
 포트폴리오: https://sjun4040.github.io/webstart/index.html
 <br>
@@ -33,7 +28,7 @@
 
 설명: Python만을 이용해서 아이스크림 가게 키오스크 프로그램을 만들었습니다.
 
-기술: Python · 파일 입출력
+기술: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=ffffff)
 
 시뮬레이션 :  https://sjun4040.github.io/hipython_rep/거미줄_함수_찐막.ipynb
 <br>
@@ -41,7 +36,8 @@
 
 설명: 캠프 주차별 학습 노트 및 코드 예제 공부
 
-기술: Markdown · Jupyter Notebook, VS code
+기술: ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white) . ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white) . ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+
 
 블로그 : https://sjun11.blogspot.com/
 
