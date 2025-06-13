@@ -1,12 +1,12 @@
 # 안녕하세요, 상라입니다 👋
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username)](https://github.com/your-username)
+[![GitHub stats]([https://github-readme-stats.vercel.app/api?username=your-username](https://github.com/sjun4040))]
 
 <p align="center">
   <img src="profile-readme.png" width="600" alt="Cover" />
 </p>
 
-🔭 지금은 의료기기 밸리데이션 준비 중  
+🔭 지금은 공부중(파이썬, 자바 스크립트, Html, sql, ADSP 등)  
 📫 문의: example@email.com  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=ffffff)
