@@ -1,6 +1,8 @@
 # 안녕하세요, 박상준입니다 👋
 
-[![GitHub 주소입니다]([https://github-readme-stats.vercel.app/api?username=your-username](https://github.com/sjun4040))]
+![GitHub 주소](https://raw.githubusercontent.com/yourname/your-repo/main/github-logo.png)
+![Cover](https://raw.githubusercontent.com/yourname/your-repo/main/cover.png)
+
 
 <p align="center">
   <img src="blog_banner.jpg" width="600" alt="Cover" />
