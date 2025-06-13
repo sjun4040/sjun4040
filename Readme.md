@@ -14,18 +14,7 @@
 
 <h2 style="color:#333333;">🚀 Skills</h2>
 
-name: Update visitor count
-on: [push, schedule]
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - name: Update visitor widget
-        run: |
-          # 스크립트로 visitor.svg 업데이트
-      - uses: EndBug/add-and-commit@v9
-        with:
-          author_name: github-actions
-          author_email: actions@github.com
-          message: "Update visitor count"
+name: Park sang jun
+jobs: Student
+Portfolio : https://sjun4040.github.io/webstart/index.html
+
