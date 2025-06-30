@@ -59,7 +59,7 @@
 기술: ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white) . ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white) . ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 
-블로그 : https://sjun11.blogspot.com/
+블로그 : [https://sjun11.blogspot.com/](https://velog.io/@sjun4040/posts)
 
 
 
